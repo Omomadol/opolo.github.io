@@ -628,12 +628,11 @@ body {
     }
 }
 
- @media (min-width:1400px) {
+ @media (min-width:1200px) {
     .section2a {
         text-align: center;
     }
     .service1 {
-        flex-direction: column;
         align-items: center;
     }
     .services {
@@ -649,7 +648,7 @@ body {
     .joina {
         justify-content: space-evenly;
         margin-top: 60px;
-        margin-left: 330px;
+        margin-left: 125px;
     }
     
     .join1 {
