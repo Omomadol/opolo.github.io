@@ -638,6 +638,8 @@ body {
     .services {
         max-width: 80%;
         text-align: center;
+        margin-right: 100px;
+        margin-left: 100px;
     }
     .services h4 {
         color: #2e3092;
