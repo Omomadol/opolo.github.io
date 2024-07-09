@@ -628,7 +628,7 @@ body {
     }
 }
 
- @media (min-width:1200px) {
+ @media (min-width:1024px) and (max-width:1250px) {
     .section2a {
         text-align: center;
     }
